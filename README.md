@@ -101,10 +101,12 @@ REF: 1. Secoda, What is the importance of version control in software developmen
 2. MoldStud, Importance of  version control in software development, https://moldstud.com/articles/p-importance-of-version-control-in-software-development, Accessed on 8 June 2024
 
 Software Project Management: Software project management is the process of planning scheduling resource allocation execution tracking and delivery of software and web projects it involves managing the entire lifecycle of a software project from planning to delivery ensuring that the project is completed on time within budget and meets the desired quality standards.
+REF:Geeks for geeks, Software Project Management (SPM) – Software Engineering, https://www.geeksforgeeks.org/software-engineering-software-project-management-spm/, Accessed on 8 June 2024 
 
 Discuss the role of a software project manager. What are some key responsibilities and challenges faced in managing software projects?
 The role of a software project manager is crucial in ensuring the successful completion of software projects they are responsible for overseeing the entire software development lifecycle from planning and execution to monitoring and control.
- Key responsibilities of a software project manager, include project planning defining the project scope objectives, and deliverables creating a detailed project plan and allocating resources effectively team management assembling and leading a team of software developers.
+Key responsibilities of a software project manager, include project planning defining the project scope objectives, and deliverables creating a detailed project plan and allocating resources effectively team management assembling and leading a team of software developers.
+
 Ensuring clear communication collaboration and motivation risk management identifying potential risks analyzing their impact and implementing mitigation strategies to minimize their effect on the project. Stakeholder management communicates with client management and team members to ensure everyone is aligned with project goals and expectations change.
 Management adapting to changes in requirements or priorities and ensuring that the project remains on track despite these changes.  Quality assurance ensures that the software meets the required quality standards and that testing is conducted at various stages of development. Process budget and schedule management monitoring and controlling project costs and ensuring that the project is completed within the allocated budget and timeline.
 Challenges faced by software project managers scope creep and dealing with changing or expanding requirements which can lead to delays and budget overruns. Team dynamics managing team conflicts ensuring effective collaboration and keeping team members motivated and engaged in communication, effectively communicating with stakeholders clients, and team members and ensuring that everyone is on the same page.
@@ -118,24 +120,34 @@ REF: Geeks for geeks, Software Maintenance – Software Engineering, https://www
 
 Define software maintenance and explain the different types of maintenance activities. Why is maintenance an essential part of the software lifecycle?
 Software testing is a critical aspect of the software development lifecycle, and it consists of four main levels. The first level is unit testing which focuses on testing individual components or units of the software to ensure their proper functioning this type of testing is performed by developers to validate the performance of each unit and detect any errors early in the development cycle which ultimately reduces costs and saves time.
+
  The second level is integration testing which tests how different components or units of the software work together it specifically checks the data flow from one module to other modules testers are responsible for performing this type of testing to ensure that the integrated system is ready for system testing.
+ 
  System testing is the third level, and it involves testing the software as a whole to ensure that it meets all requirements and functions correctly this type of testing evaluates both functional and nonfunctional needs including load performance reliability and security testing professional testing agents are responsible for performing system testing on the completed software product before its release.
+ 
  The final level is acceptance testing which aims to test the software to ensure it meets user requirements and is ready for deployment the primary goal of this testing is to evaluate whether the system complies with the end user requirements while the user or customer typically performs acceptance testing other stakeholders can also be involved in this process.
+
  Software testing is crucial for several reasons firstly it helps in early defect detection which reduces the cost and time required to fix issues later in the development cycle.
 Secondly, it ensures the delivery of high-quality software that meets user needs and is free of problems additionally testing improves customer satisfaction by providing a reliable and secure product.
  Lastly, it saves money and time in the long run by catching issues early in the development cycle, by following these testing levels and best practices software engineers can ensure that their software is reliable and secure, and user-friendly testing plays an essential role in the software development lifecycle helping deliver high-quality products that meet user requirements and expectations.
+ REF: Lakhman Katera, Levels of Testing in Software Testing,https://qacraft.com/levels-of-testing-in-software-testing/,https://qacraft.com/levels-of-testing-in-software-testing/, Accessed on 8 June 2024
 
-Ethical Considerations in Software Engineering:Ethical considerations in software engineering are crucial for ensuring that software systems are developed and maintained in a responsible and socially acceptable manner software engineers have a significant impact on society through their work and it is essential that they adhere to ethical principles to avoid harming individuals or communities
+Ethical Considerations in Software Engineering: Ethical considerations in software engineering are crucial for ensuring that software systems are developed and maintained in a responsible and socially acceptable manner software engineers have a significant impact on society through their work and they must adhere to ethical principles to avoid harming individuals or communities.
+REF: MoldStud, Ethical Considerations In Software Engineering, https://pdh-pro.com/pe-resources/ethics-in-software-engineering/, Accessed on 8 June 2024
+
 
 What are some ethical issues that software engineers might face? How can software engineers ensure they adhere to ethical standards in their work?
 Software engineers face a range of ethical challenges in their profession. One such challenge is ensuring privacy and data protection. They must handle user data responsibly, respecting privacy rights and complying with regulations like GDPR. Additionally, software engineers must manage intellectual property rights by properly crediting original work and avoiding plagiarism or unauthorized use. They may also encounter unethical requests from clients or employers, and it is important for them to uphold ethical principles and refuse to engage in activities that conflict with these principles.
-
 
 Another significant ethical consideration in software engineering is bias and fairness. Software systems should be designed to be unbiased and promote fairness and inclusivity. It is the responsibility of software engineers to ensure that their systems do not perpetuate or amplify existing biases and that they are accessible to all users. Security is also crucial in ethical software engineering. Software engineers must develop systems that are secure and protect user data from unauthorized access, breaches, or cyberattacks. This requires implementing robust security measures and staying updated on the latest security practices.
 
 Transparency is an essential ethical principle in software engineering. Software systems should be transparent and explainable, and users should be informed about how their data is being used. Software engineers should strive to provide clear and understandable explanations to users regarding data collection and usage. By addressing these ethical challenges, software engineers can contribute to the development of responsible and ethical software systems. 
 References include:
-Case Study/ Example: Duolingo a learning app has an addictive design. It is a great example of how software can be designed to be both engaging and educational. Duolingo's gamification features, such as points and badges, encourage users to continue learning and improve their language skills for its users.
+Case Study/ Examples:1.  Duolingo a learning app has an addictive design. It is a great example of how software can be designed to be both engaging and educational. Duolingo's gamification features, such as points and badges, encourage users to continue learning and improve their language skills for its users.
+
+2. Facebook's data collection and use practices have been criticized for their lack of transparency and user control. Facebook has faced numerous privacy scandals, including the Cambridge Analytica data breach, which highlights the importance of user data protection and transparency
+REF: 1. George Lawton, 5 examples of ethical issues in software development, https://www.techtarget.com/searchsoftwarequality/tip/5-examples-of-ethical-issues-in-software-development, Accessed on 8 June 2024
+2. PDH-PRO, Ethics in software engineering: A key component of professional practice,https://pdh-pro.com/pe-resources/ethics-in-software-engineering/, Accessed on 8 June 2024
 
 Submission Guidelines:
 Your answers should be well-structured, concise, and to the point.
